@@ -782,6 +782,10 @@ section .container {
   margin-bottom: 30px;
 }
 
+.portfolio-container {
+  min-height: 300px;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 15px auto;
