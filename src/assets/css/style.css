@@ -1,4 +1,3 @@
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -364,6 +363,12 @@ section .container {
   padding: 30px;
 }
 
+@media all and (max-width: 1279px) {
+  section.section-show {
+    height: auto;
+  }
+}
+
 @media (max-width: 768px) {
   section {
     top: 120px;
@@ -371,6 +376,62 @@ section .container {
 
   section.section-show {
     top: 80px;
+  }
+}
+
+@media (max-width: 767px) {
+
+  section.section-show {
+    height: auto;
+  }
+
+  .section-title p {
+    font-size: 24px;
+  }
+
+  .resume .resume-title {
+    font-size: 20px;
+  }
+
+  .resume .resume-item h4 {
+    font-size: 16px;
+    line-height: normal;
+  }
+
+  .services .icon-box {
+    padding: 40px 20px;
+  }
+
+  .services .icon-box .icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  .contact .info-box i.bx {
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  .contact .info-box h3 {
+    margin: 0px 0 8px 58px;
+  }
+
+  .contact .info-box p {
+    margin: 0 0 0 58px;
+  }
+
+  #header h1 {
+    font-size: 30px;
+  }
+
+  #header h2 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 2;
+  }
+
+  #header .social-links{
+    margin-top: 0;
   }
 }
 
