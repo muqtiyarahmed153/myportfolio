@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/myportolio/static/css/main.f452f8ce.css",
+    "main.js": "/myportolio/static/js/main.81c77080.js",
+    "static/js/453.83234151.chunk.js": "/myportolio/static/js/453.83234151.chunk.js",
+    "static/media/remixicon.svg?t=1708865856766": "/myportolio/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/boxicons.svg": "/myportolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/remixicon.eot?t=1708865856766": "/myportolio/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/myportolio/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/boxicons.eot": "/myportolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/myportolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/myportolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/remixicon.woff?t=1708865856766": "/myportolio/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/bootstrap-icons.woff?": "/myportolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/myportolio/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/bootstrap-icons.woff2?": "/myportolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/boxicons.woff2": "/myportolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/bg.jpg": "/myportolio/static/media/bg.9f4c4ac1933802e5918a.jpg",
+    "static/media/portfolio-5.jpg": "/myportolio/static/media/portfolio-5.e55cc11c781741b6c71d.jpg",
+    "static/media/portfolio-2.jpg": "/myportolio/static/media/portfolio-2.a305f9fb63b12fb87304.jpg",
+    "static/media/bannerabstract.jpeg": "/myportolio/static/media/bannerabstract.021b98cade8ce8df4d7f.jpeg",
+    "static/media/portfolio-9.jpg": "/myportolio/static/media/portfolio-9.d0b507890fc26e533ee0.jpg",
+    "index.html": "/myportolio/index.html",
+    "main.f452f8ce.css.map": "/myportolio/static/css/main.f452f8ce.css.map",
+    "main.81c77080.js.map": "/myportolio/static/js/main.81c77080.js.map",
+    "453.83234151.chunk.js.map": "/myportolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f452f8ce.css",
+    "static/js/main.81c77080.js"
+  ]
+}
